@@ -2,7 +2,7 @@
 ## Je suis actuellement en formation développeur Web et Web mobile ##
 
 ### Compétences : ###
- - Connaissance dans quelque language de programmation tel que le CSS ainsi que du HTML . 
+ - Connaissances dans quelques languages de programmation tel que le CSS ainsi que du HTML . 
 
  - J'ai aussi des connaissance en dépannage informatique .
 
