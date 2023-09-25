@@ -22,8 +22,8 @@
  - Assidue
  - Professionnel
 
-C'est tous pour le moment !<p>
-merci de m'avoir lu :+1:
+C'est tout pour le moment !<p>
+Merci de m'avoir lu :+1:
 <!---
 raphael-safra/raphael-safra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
