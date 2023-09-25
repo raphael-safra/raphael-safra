@@ -4,7 +4,9 @@
 ### Compétences : ###
  - Connaissances dans quelques languages de programmation tel que le CSS ainsi que du HTML . 
 
- - J'ai aussi des connaissance en dépannage informatique .
+ - Connaissances en dépannage informatique .
+
+ - Connaissances en réseaux .
 
 ### Langue : ###
 <details>
