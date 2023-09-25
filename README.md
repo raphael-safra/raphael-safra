@@ -10,11 +10,13 @@
  
  | Langue   | Maîtrise |
  |----------|----------|
- | Français | Courant  |
  | Anglais  | Moyen    |
 
  </details>
 
+### Qualité : ###
+ - Assidue
+ - Professionnel 
 <!---
 raphael-safra/raphael-safra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
