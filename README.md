@@ -12,6 +12,7 @@
  | Langue   | Maîtrise |
  |----------|----------|
  | Anglais  | Moyen    |
+ | Espagnol | bon      |
 
  </details>
 
