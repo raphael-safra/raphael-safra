@@ -1,5 +1,5 @@
-### Bonjour je m'appelle Raphaël ###
-## Je suis actuellement en formation développeur Web et Web mobile ##
+## Bonjour je m'appelle Raphaël ##
+### Je suis actuellement en formation développeur Web et Web mobile ###
 
 
 <!---
